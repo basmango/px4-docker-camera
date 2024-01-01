@@ -1,4 +1,4 @@
-# landing-sim
+# px4-docker-camera-sim
 
 ## STEPS
 

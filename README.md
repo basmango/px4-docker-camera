@@ -15,7 +15,7 @@ Follow the guide here https://developer.nvidia.com/nvidia-container-runtime
 ### Build docker image
 Clone this repository and build the docker image
 ```
-git clone git@github.com:8OL-Robotics/landing-sim.git
+git clone git@github.com:basmango/px4-docker-camera-sim.git
 cd landing-sim
 sudo bash build_image.sh
 ```
